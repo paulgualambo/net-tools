@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\app\ConectApiClient.csproj" />
+    <ProjectReference Include="..\src\ConnectApiClient.csproj" />
   </ItemGroup>
 
 </Project>

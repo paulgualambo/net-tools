@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConectApiClient", "app\ConectApiClient.csproj", "{F428BAEA-9393-4703-AF36-33D355896CE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectApiClient", "src\ConnectApiClient.csproj", "{F428BAEA-9393-4703-AF36-33D355896CE6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectApiClient.Tests", "test\ConnectApiClient.Tests.csproj", "{51F2FE23-75BD-4938-AF61-FE46B1ED3A75}"
 EndProject

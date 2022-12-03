@@ -1,4 +1,3 @@
-using ConnectApiClient.Services;
 using ConnectApiClient.UseCase;
 
 namespace ConnectApiClient.Tests
@@ -8,11 +7,12 @@ namespace ConnectApiClient.Tests
         [Fact]
         public async void Execute()
         {
+
             //Arrange
             var obj = new ProductUC();
 
             //Act
-            var result = await obj.List();
+            var result = await ProductUC.List();
 
             //Assert
             Assert.NotNull(result);
