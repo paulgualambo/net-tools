@@ -1,0 +1,15 @@
+P:\training\net\net-tools\ConnectApiClient\app\src\bin\Debug\net6.0\ConnectApiClient.exe
+P:\training\net\net-tools\ConnectApiClient\app\src\bin\Debug\net6.0\ConnectApiClient.deps.json
+P:\training\net\net-tools\ConnectApiClient\app\src\bin\Debug\net6.0\ConnectApiClient.runtimeconfig.json
+P:\training\net\net-tools\ConnectApiClient\app\src\bin\Debug\net6.0\ConnectApiClient.dll
+P:\training\net\net-tools\ConnectApiClient\app\src\bin\Debug\net6.0\ConnectApiClient.pdb
+P:\training\net\net-tools\ConnectApiClient\app\src\obj\Debug\net6.0\ConnectApiClient.csproj.AssemblyReference.cache
+P:\training\net\net-tools\ConnectApiClient\app\src\obj\Debug\net6.0\ConnectApiClient.GeneratedMSBuildEditorConfig.editorconfig
+P:\training\net\net-tools\ConnectApiClient\app\src\obj\Debug\net6.0\ConnectApiClient.AssemblyInfoInputs.cache
+P:\training\net\net-tools\ConnectApiClient\app\src\obj\Debug\net6.0\ConnectApiClient.AssemblyInfo.cs
+P:\training\net\net-tools\ConnectApiClient\app\src\obj\Debug\net6.0\ConnectApiClient.csproj.CoreCompileInputs.cache
+P:\training\net\net-tools\ConnectApiClient\app\src\obj\Debug\net6.0\ConnectApiClient.dll
+P:\training\net\net-tools\ConnectApiClient\app\src\obj\Debug\net6.0\refint\ConnectApiClient.dll
+P:\training\net\net-tools\ConnectApiClient\app\src\obj\Debug\net6.0\ConnectApiClient.pdb
+P:\training\net\net-tools\ConnectApiClient\app\src\obj\Debug\net6.0\ConnectApiClient.genruntimeconfig.cache
+P:\training\net\net-tools\ConnectApiClient\app\src\obj\Debug\net6.0\ref\ConnectApiClient.dll
