@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectApiClient", "src\ConnectApiClient.csproj", "{F428BAEA-9393-4703-AF36-33D355896CE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectApiClient.Tests", "test\ConnectApiClient.Tests.csproj", "{51F2FE23-75BD-4938-AF61-FE46B1ED3A75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F428BAEA-9393-4703-AF36-33D355896CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F428BAEA-9393-4703-AF36-33D355896CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F428BAEA-9393-4703-AF36-33D355896CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F428BAEA-9393-4703-AF36-33D355896CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F2FE23-75BD-4938-AF61-FE46B1ED3A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F2FE23-75BD-4938-AF61-FE46B1ED3A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F2FE23-75BD-4938-AF61-FE46B1ED3A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F2FE23-75BD-4938-AF61-FE46B1ED3A75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {779C91E4-DB73-4F45-B77B-767A234F45C5}
+	EndGlobalSection
+EndGlobal
